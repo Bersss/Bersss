@@ -1,8 +1,8 @@
-
+![Teenager, Developer.](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 # Liam Bersudsky
 #### Teenager, Developer.
 
-![Teenager, Developer.](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
+
 
 16 years old named Liam, I know Front-end web development. I would like to get better and learn back-end.
 
