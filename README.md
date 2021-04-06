@@ -1,4 +1,4 @@
-![Teenager, Developer.](https://www.qualitydevs.com/wp-content/uploads/2017/12/desarrollador-1288x224.jpg)
+![Teenager, Developer.](https://res.cloudinary.com/practicaldev/image/fetch/s--StRkI7Ze--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://codesandtags.github.io/blog/static/0c42bdee6c2a7e213cacc2b33ac3039c/a0304/hero.webp)
 
 # Liam Bersudsky
 #### Teenager, Developer.
